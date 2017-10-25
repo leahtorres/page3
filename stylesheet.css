@@ -8,23 +8,23 @@ body {
 	
 }
 .orange {
-	background-color: #DAA5B5;
+	background-color: #EECF31;
 	width: 50vw;
 	height: 80vh;
 }
 .sliver {
-background-color: #FFFFFF;
+background-color: #5D1313;
 width: 50vw;
 height: 80vh;
 }	
 .purple {
-	background-color: #D6E58C;   
+	background-color: #13165D;   
 	height: 10vh;
     width: 5vw;
     padding: 5px;
 }
 .blue {
-	background-color: #1522E1;
+	background-color: #2262D8;
 	height: 70vh;
 	width: 50vw;
 }
