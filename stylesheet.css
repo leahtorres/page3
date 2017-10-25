@@ -1,1 +1,38 @@
-
+body {
+    background-color: #E11525;
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+	height: 50vh;
+	width: 100vw;
+	
+}
+.orange {
+	background-color: #DAA5B5;
+	width: 50vw;
+	height: 80vh;
+}
+.sliver {
+background-color: #FFFFFF;
+width: 50vw;
+height: 80vh;
+}	
+.purple {
+	background-color: #D6E58C;   
+	height: 10vh;
+    width: 5vw;
+    padding: 5px;
+}
+.blue {
+	background-color: #1522E1;
+	height: 70vh;
+	width: 50vw;
+}
+.container {
+	border: 70px solid red;
+	height: 70vh;
+	 margin: auto;
+    width: 50%;
+    padding: 10px;
+	
+}
